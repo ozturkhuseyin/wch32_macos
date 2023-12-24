@@ -1,4 +1,8 @@
 # wch32_macos
+Compile & Flash RISC-V WCH32 MCUs on Apple Silicon.
+
+## Examples
+-    CH32V003
 
 ## Preparing Toolchains
 -   Download MRS toolchain from MacOS tab at http://www.mounriver.com/download.
@@ -41,3 +45,6 @@
 
 ## TODO
 -   Add template projects for other development boards
+-   Add OpenOCD flashing
+-   Add GDB debug
+-   Make a VS Code extension
