@@ -37,6 +37,7 @@
 
         make upload_program
 
+    this builds project, erases flash, programs flash then resets MCU.  
 
 ## TODO
 -   Add template projects for other development boards
