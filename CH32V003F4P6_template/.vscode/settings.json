@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "debug.h": "c"
+    },
+    "idf.port": "/dev/cu.usbmodemFCA28F0681752"
+}
