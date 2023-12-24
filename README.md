@@ -45,3 +45,6 @@ Compile & Flash RISC-V WCH32 MCUs on Apple Silicon.
 
 ## TODO
 -   Add template projects for other development boards
+-   Add OpenOCD flashing
+-   Add GDB debug
+-   Make a VS Code extension
