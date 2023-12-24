@@ -41,7 +41,10 @@ Compile & Flash RISC-V WCH32 MCUs on Apple Silicon.
 
         make upload_program
 
-    this builds project, erases flash, programs flash then resets MCU.  
+    this builds project, erases flash, programs flash then resets MCU.
+    
+![](https://github.com/ozturkhuseyin/wch32_macos/blob/main/etc/upload.jpeg "Upload")
+  
 
 ## TODO
 -   Add template projects for other development boards
