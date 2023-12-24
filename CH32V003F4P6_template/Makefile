@@ -1,5 +1,7 @@
-WCH_RV_TOOLCHAIN_DIR ?= /Users/blue/Desktop/dev/toolchains/MRS_Toolchain_MAC_V191
+# Edit this for your toolchain path
+WCH_RV_TOOLCHAIN_DIR ?= /x/x/x/x/x/MRS_Toolchain_MAC_V191
 
+# Check for names, versions can be change later
 PREFIX = $(WCH_RV_TOOLCHAIN_DIR)/xpack-riscv-none-embed-gcc-8.2.0/bin/riscv-none-embed-
 WLINK_PATH = $(WCH_RV_TOOLCHAIN_DIR)/wlink-macos-arm64/wlink
 
