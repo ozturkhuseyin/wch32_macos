@@ -23,7 +23,7 @@ Compile & Flash RISC-V WCH32 MCUs on Apple Silicon.
         
         vim CH32V003F4P6_template/Makefile
 
--   Then change the first line of Makefile
+-   Then change the first line of Makefile for your toolchain path
 
         WCH_RV_TOOLCHAIN_DIR ?= /path/to/toolchain/directory
 
