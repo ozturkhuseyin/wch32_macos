@@ -3,6 +3,7 @@ Compile & Flash RISC-V WCH32 MCUs on Apple Silicon.
 
 ## Examples
 -    CH32V003
+-    CH32V307
 
 ## Preparing Toolchains
 -   Download MRS toolchain from MacOS tab at http://www.mounriver.com/download.
