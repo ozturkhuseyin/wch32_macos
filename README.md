@@ -7,7 +7,7 @@ Compile & Flash RISC-V WCH32 MCUs on Apple Silicon.
 
 ## Preparing Toolchains
 -   Download MRS toolchain from MacOS tab at http://www.mounriver.com/download
--   Download Complier from https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/releases/
+-   Download Compiler from https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/releases/
 -   Download Wlink for arm64 from https://github.com/ch32-rs/wlink/releases/tag/nightly
 -   Install required tools with homebrew by 
     
